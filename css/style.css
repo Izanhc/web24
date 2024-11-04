@@ -414,3 +414,6 @@ form fieldset{
     font-size: 20px;
     color: white;
 }
+.col3 img {
+    width: 350px;
+}
