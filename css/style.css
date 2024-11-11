@@ -303,6 +303,16 @@ h2 {
     width: 80%;
     text-align: center;
 }
+.striped tr:nth-child(odd) {
+    background-color:rgb(237, 240, 59);
+    }
+    .striped tr:nth-child(even) {
+    background-color:rgb(228, 45, 32);
+    }
+    .tablafc th {
+        background-color: rgb(35, 221, 50);
+        color: white;
+    }
 
 .sisi {
     background-color: #0080ff;
