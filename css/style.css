@@ -290,12 +290,12 @@ h2 {
 
 #listas .img-youtube {
     list-style: none;
-    list-style-image: url("/img/youtubelogo.png");
+    list-style-image: url("img/youtubelogo.png");
 }
 
 #listas .img-azarquiel {
     list-style: none;
-    list-style-image: url("/img/logoazarquiel.jpg");
+    list-style-image: url("img/logoazarquiel.jpg");
 }
 
 #horario {
@@ -426,4 +426,15 @@ form fieldset{
 }
 .col3 img {
     width: 350px;
+}
+.audio1{
+    text-align: center;
+}
+.video1{
+    text-align: center;
+    padding: 5px;
+}
+.video2{
+    text-align: left;
+    padding: 5px;
 }
